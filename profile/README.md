@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 What is a Highland Rush? 
+
+
 [Wikipedia](https://en.wikipedia.org/wiki/Oreojuncus_trifidus)
+
+Our goal is to decentralize the world, by automating as many parts of life as possible and taking out the middleman wherever we can. 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
